@@ -7,6 +7,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-size: cover;
+  background-image: linear-gradient(
+      to left,
+      transparent,
+      rgba(238, 226, 243, 0.5)
+    ),
+    url('./schare/levender.jpg');
+
+  /* background-color: rgb(211, 146, 233); */
 }
 
 code {
