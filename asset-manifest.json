@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-feedback/static/css/main.12c98af9.css",
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.cadfd35e.css",
     "main.js": "/goit-react-hw-04-feedback/static/js/main.b9a6e685.js",
+    "static/media/levender.jpg": "/goit-react-hw-04-feedback/static/media/levender.090022b64ec1cb19bd94.jpg",
     "index.html": "/goit-react-hw-04-feedback/index.html",
-    "main.12c98af9.css.map": "/goit-react-hw-04-feedback/static/css/main.12c98af9.css.map",
+    "main.cadfd35e.css.map": "/goit-react-hw-04-feedback/static/css/main.cadfd35e.css.map",
     "main.b9a6e685.js.map": "/goit-react-hw-04-feedback/static/js/main.b9a6e685.js.map"
   },
   "entrypoints": [
-    "static/css/main.12c98af9.css",
+    "static/css/main.cadfd35e.css",
     "static/js/main.b9a6e685.js"
   ]
 }
